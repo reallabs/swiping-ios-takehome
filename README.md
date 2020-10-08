@@ -13,11 +13,11 @@ Your job is set up an Swift iOS project that users a provided data set to render
 Your goal is to make as much progress on this project in the time allocated.
 
 ## Getting started
-
+  
 Run the following commands:
 
 ```
-cd swiping-ios-akehome/
+cd swiping-ios-takehome/
 open takehome.xcworkspace
 ```
 
